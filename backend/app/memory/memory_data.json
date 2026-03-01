@@ -1,0 +1,133 @@
+{
+  "default_user": {
+    "difficulty_level": "beginner",
+    "by_language": {
+      "java": {
+        "common_mistakes": [
+          "syntax error",
+          "logical error",
+          "inefficiency"
+        ],
+        "recent_scores": [
+          6.5
+        ]
+      },
+      "cpp": {
+        "common_mistakes": [
+          "syntax error",
+          "poor code efficiency",
+          "logical error",
+          "inefficiency"
+        ],
+        "recent_scores": [
+          6.2,
+          6.2,
+          3.2,
+          8.2,
+          3.2,
+          3.6
+        ]
+      },
+      "python": {
+        "common_mistakes": [
+          "inefficiencies"
+        ],
+        "recent_scores": [
+          6.2,
+          6.2,
+          6.2,
+          6.2,
+          6.2
+        ]
+      },
+      "c": {
+        "common_mistakes": [
+          "syntax error",
+          "logical error",
+          "inefficiency",
+          "poor edge case handling",
+          "uninitialized variable"
+        ],
+        "recent_scores": [
+          9.0,
+          9.0,
+          9.2,
+          9.0,
+          9.2,
+          9.0,
+          9.0,
+          9.0,
+          9.2,
+          9.0
+        ]
+      },
+      "csharp": {
+        "common_mistakes": [
+          "inefficiencies",
+          "poor variable naming"
+        ],
+        "recent_scores": [
+          6.2
+        ]
+      },
+      "go": {
+        "common_mistakes": [],
+        "recent_scores": [
+          6.2
+        ]
+      }
+    }
+  },
+  "default_use1": {
+    "by_language": {
+      "cpp": {
+        "common_mistakes": [],
+        "recent_scores": []
+      },
+      "java": {
+        "common_mistakes": [],
+        "recent_scores": []
+      },
+      "python": {
+        "common_mistakes": [],
+        "recent_scores": []
+      },
+      "c": {
+        "common_mistakes": [
+          "syntax error",
+          "uninitialized variable",
+          "poor edge case handling",
+          "unclear formatting"
+        ],
+        "recent_scores": [
+          7.8,
+          7.8,
+          7.8,
+          7.8,
+          4.2,
+          7.8
+        ]
+      },
+      "csharp": {
+        "common_mistakes": [],
+        "recent_scores": []
+      },
+      "go": {
+        "common_mistakes": [
+          "uninitialized variable",
+          "syntax error",
+          "poor edge case handling",
+          "inefficiency"
+        ],
+        "recent_scores": [
+          4.2,
+          4.2,
+          4.2,
+          4.2,
+          4.2
+        ]
+      }
+    },
+    "difficulty_level": "beginner"
+  }
+}
