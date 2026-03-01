@@ -6,16 +6,7 @@
 
 "use strict";
 
-const API_URL = (() => {
-  if (
-    window.location.protocol === "file:" ||
-    window.location.hostname === "localhost" ||
-    window.location.hostname === "127.0.0.1"
-  ) {
-    return "http://127.0.0.1:8000/run";
-  }
-  return `${window.location.origin}/run`;
-})();
+const API_URL = "https://prismai1.onrender.com/run";
 const CODE_MAX = 5000;
 
 // ── App state ──────────────────────────────────────────────
