@@ -220,4 +220,4 @@ Then open `http://127.0.0.1:8000/docs` to explore the API, or open `frontend/ind
 
 ## 🧑‍💻 Authors
 
-Built for [Hackathon Name] by [Your Names Here].
+Built by Neural Nexus for the world.
